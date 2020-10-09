@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Paul</first_name>
+	<last_name>Bakker</last_name>
+	<phone_number>0123434262467</phone_number>
+	<notes>Opa</notes>
+</contact>
+<contact>
+	<first_name>Opa </first_name>
+	<last_name>Paul</last_name>
+	<phone_number>123</phone_number>
+	<notes>654</notes>
+</contact>
+<contact>
+	<first_name>Maarten</first_name>
+	<last_name>Bakker</last_name>
+	<phone_number>12345</phone_number>
+	<notes>Hoi</notes>
+</contact>
+<contact>
+	<first_name>Kasper</first_name>
+	<last_name>Bakker</last_name>
+	<phone_number>444</phone_number>
+	<notes>Dit is Kasper</notes>
+</contact>
+<contact>
+	<first_name>Ella</first_name>
+	<last_name>Bakker</last_name>
+	<phone_number>12345</phone_number>
+	<notes>Ella is lief</notes>
+</contact>
+<contact>
+	<first_name>Berend</first_name>
+	<last_name>Bakker</last_name>
+	<phone_number>987</phone_number>
+	<notes>hartje</notes>
+</contact>
+<contact>
+	<first_name>Anna</first_name>
+	<last_name>Bakker - Zeijlemaker</last_name>
+	<phone_number>0987654321</phone_number>
+	<notes>Ja ja</notes>
+</contact>
+<contact>
+	<first_name>Albert Jan</first_name>
+	<last_name>Zeijlemaker</last_name>
+	<phone_number>342</phone_number>
+	<notes>OPA</notes>
+</contact>
+</contacts>

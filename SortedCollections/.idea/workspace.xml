@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67380cb7-ca28-4e94-b565-0ea2d94c1360" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aE0pu2BIqsZwzCiF7JWtxEYukO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.Maarten.Main" />
+      <module name="SortedCollections" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67380cb7-ca28-4e94-b565-0ea2d94c1360" name="Default Changelist" comment="" />
+      <created>1586285631989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586285631989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="169" y="73" key="#Project_Structure" timestamp="1586692869526">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="169" y="73" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1586692869526" />
+    <state x="526" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1586436871081">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="526" y="164" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1586436871081" />
+    <state x="487" y="340" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586597223649">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="487" y="340" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1586597223649" />
+    <state x="444" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586343742149">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="444" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1586343742149" />
+    <state width="1384" height="461" key="GridCell.Tab.0.bottom" timestamp="1586692871475">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1384" height="461" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586692871475" />
+    <state width="1384" height="461" key="GridCell.Tab.0.center" timestamp="1586692871473">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1384" height="461" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586692871473" />
+    <state width="1384" height="461" key="GridCell.Tab.0.left" timestamp="1586692871473">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1384" height="461" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586692871473" />
+    <state width="1384" height="461" key="GridCell.Tab.0.right" timestamp="1586692871474">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1384" height="461" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586692871474" />
+    <state x="222" y="87" key="SettingsEditor" timestamp="1586692774924">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="222" y="87" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1586692774924" />
+    <state x="392" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1586591610670">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="392" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1586591610670" />
+    <state x="107" y="70" key="new project wizard" timestamp="1586692718934">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="107" y="70" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1586692718934" />
+    <state x="378" y="206" width="670" height="676" key="search.everywhere.popup" timestamp="1586692734173">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="378" y="206" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1586692734173" />
+  </component>
+</project>
